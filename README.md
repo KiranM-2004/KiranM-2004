@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1A2E,100:00B4FF&height=200&section=header&text=KIRAN%20M&fontSize=60&fontColor=00B4FF&fontAlignY=40&desc=Aspiring%20Embedded%20Software%20Engineer&descAlignY=60&descSize=20&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1A2E,50:39FF88,100:00B4FF&height=200&section=header&text=KIRAN%20M&fontSize=60&fontColor=39FF88&fontAlignY=40&desc=Aspiring%20Embedded%20Software%20Engineer&descAlignY=60&descSize=20&descColor=8B949E&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -10,15 +10,15 @@
 $ whoami
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=650&lines=Aspiring+Embedded+Software+Engineer;B.E+in+Electronics+%26+Communication+%40+VTU;C+%7C+ESP-32+%7C+Arduino+%7C+UART+%2F+SPI+%2F+I2C;Building+firmware+for+real-time+embedded+systems;Open+to+Embedded+Software+%26+GET+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=650&lines=Aspiring+Embedded+Software+Engineer;B.E+in+Electronics+%26+Communication+%40+VTU;C+%7C+ESP-32+%7C+Arduino+%7C+UART+%2F+SPI+%2F+I2C;Building+firmware+for+real-time+embedded+systems;Open+to+Embedded+Software+%26+GET+roles" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/B.E-Electronics%20%26%20Communication-00B4FF?style=flat-square&labelColor=0D1117)
-![University](https://img.shields.io/badge/VTU-Dr.%20SMCE-00B4FF?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Bangalore-00B4FF?style=flat-square&labelColor=0D1117)
+![Degree](https://img.shields.io/badge/B.E-Electronics%20%26%20Communication-39FF88?style=flat-square&labelColor=0D1117)
+![University](https://img.shields.io/badge/VTU-Dr.%20SMCE-39FF88?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Bangalore-39FF88?style=flat-square&labelColor=0D1117)
 
 </div>
 
@@ -33,9 +33,9 @@ $ whoami
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=KiranM-2004&color=00B4FF&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/KiranM-2004?color=00B4FF&style=flat-square&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/KiranM-2004?color=00B4FF&style=flat-square&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=KiranM-2004&color=39FF88&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/KiranM-2004?color=39FF88&style=flat-square&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/KiranM-2004?color=39FF88&style=flat-square&label=STARS)
 
 </div>
 
@@ -76,11 +76,11 @@ OPEN_TO  : Embedded Software Engineer, Graduate Engineer Trainee (GET)
 
 ### `$ grep -i "specialty" skills.txt`
 
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00B4FF?style=flat-square&labelColor=0D1117)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-00B4FF?style=flat-square&labelColor=0D1117)
-![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-00B4FF?style=flat-square&labelColor=0D1117)
-![Real--Time Systems](https://img.shields.io/badge/Real--Time%20Systems-00B4FF?style=flat-square&labelColor=0D1117)
-![Protocol Communication](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-00B4FF?style=flat-square&labelColor=0D1117)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-39FF88?style=flat-square&labelColor=0D1117)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-39FF88?style=flat-square&labelColor=0D1117)
+![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-39FF88?style=flat-square&labelColor=0D1117)
+![Real--Time Systems](https://img.shields.io/badge/Real--Time%20Systems-39FF88?style=flat-square&labelColor=0D1117)
+![Protocol Communication](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-39FF88?style=flat-square&labelColor=0D1117)
 
 <br>
 
@@ -183,8 +183,8 @@ A safety-critical smart helmet using an ESP-32 and sensor array for environmenta
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.E-Electronics%20%26%20Communication%20Engineering-00B4FF?style=for-the-badge&labelColor=0D1117)](https://github.com/KiranM-2004)
-[![University](https://img.shields.io/badge/Dr.%20SMCE-VTU-00B4FF?style=for-the-badge&labelColor=0D1117)](https://github.com/KiranM-2004)
+[![Education](https://img.shields.io/badge/B.E-Electronics%20%26%20Communication%20Engineering-39FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/KiranM-2004)
+[![University](https://img.shields.io/badge/Dr.%20SMCE-VTU-39FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/KiranM-2004)
 
 </div>
 
@@ -204,10 +204,10 @@ A safety-critical smart helmet using an ESP-32 and sensor array for environmenta
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KiranM-2004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B4FF&icon_color=00B4FF&text_color=8B949E&ring_color=00B4FF"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranM-2004&hide_border=true&background=0D1117&ring=00B4FF&fire=00B4FF&currStreakLabel=00B4FF&sideLabels=8B949E&currStreakNum=00B4FF&sideNums=8B949E&dates=8B949E&stroke=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KiranM-2004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=00B4FF&text_color=8B949E&ring_color=00B4FF"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranM-2004&hide_border=true&background=0D1117&ring=00B4FF&fire=39FF88&currStreakLabel=39FF88&sideLabels=8B949E&currStreakNum=39FF88&sideNums=8B949E&dates=8B949E&stroke=0D1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranM-2004&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4FF&text_color=8B949E&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranM-2004&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=8B949E&langs_count=8"/>
 
 </div>
 
@@ -217,7 +217,7 @@ A safety-critical smart helmet using an ESP-32 and sensor array for environmenta
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KiranM-2004&theme=gruvbox&no-frame=true&row=1&column=7&title=Repositories,Commits,Stars,Followers,PullRequest,Issues,Experience)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KiranM-2004&theme=flat&no-frame=true&no-bg=false&row=1&column=7&title=Repositories,Commits,Stars,Followers,PullRequest,Issues,Experience&bg_color=0D1117&title_color=39FF88&text_color=00B4FF&icon_color=39FF88&border_radius=8)
 
 </div>
 
@@ -227,7 +227,7 @@ A safety-critical smart helmet using an ESP-32 and sensor array for environmenta
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiranM-2004&bg_color=0D1117&color=00B4FF&line=00B4FF&point=8B949E&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiranM-2004&bg_color=0D1117&color=39FF88&line=00B4FF&point=39FF88&area=true&hide_border=true)
 
 </div>
 
@@ -288,4 +288,4 @@ open_to:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1A2E,100:00B4FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1A2E,50:39FF88,100:00B4FF&height=100&section=footer" width="100%"/>
