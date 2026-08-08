@@ -24,10 +24,10 @@ $ whoami
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-00B4FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://www.instagram.com/mr_kiran1234/)
-[![Email](https://img.shields.io/badge/Email-00B4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:kiranmkiranm770@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00B4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/KiranM-2004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-00B4FF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/hJvDVZnaxe/)
+[![Instagram](https://img.shields.io/badge/Instagram-00B4FF?style=flat-square&logo=instagram&logoColor=white&labelColor=0D1117)](https://www.instagram.com/mr_kiran1234/)
+[![Email](https://img.shields.io/badge/Email-00B4FF?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:kiranmkiranm770@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00B4FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/KiranM-2004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-00B4FF?style=flat-square&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/hJvDVZnaxe/)
 
 </div>
 
@@ -183,8 +183,8 @@ A safety-critical smart helmet using an ESP-32 and sensor array for environmenta
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.E-Electronics%20%26%20Communication%20Engineering-39FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/KiranM-2004)
-[![University](https://img.shields.io/badge/Dr.%20SMCE-VTU-39FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/KiranM-2004)
+[![Education](https://img.shields.io/badge/B.E-Electronics%20%26%20Communication%20Engineering-39FF88?style=flat-square&labelColor=0D1117)](https://github.com/KiranM-2004)
+[![University](https://img.shields.io/badge/Dr.%20SMCE-VTU-39FF88?style=flat-square&labelColor=0D1117)](https://github.com/KiranM-2004)
 
 </div>
 
@@ -194,7 +194,7 @@ A safety-critical smart helmet using an ESP-32 and sensor array for environmenta
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-hJvDVZnaxe-00B4FF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/hJvDVZnaxe/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hJvDVZnaxe-00B4FF?style=flat-square&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/hJvDVZnaxe/)
 
 </div>
 
@@ -279,10 +279,10 @@ open_to:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-00B4FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://www.instagram.com/mr_kiran1234/)
-[![Email](https://img.shields.io/badge/Email-00B4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:kiranmkiranm770@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00B4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/KiranM-2004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-00B4FF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/hJvDVZnaxe/)
+[![Instagram](https://img.shields.io/badge/Instagram-00B4FF?style=flat-square&logo=instagram&logoColor=white&labelColor=0D1117)](https://www.instagram.com/mr_kiran1234/)
+[![Email](https://img.shields.io/badge/Email-00B4FF?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:kiranmkiranm770@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00B4FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/KiranM-2004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-00B4FF?style=flat-square&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/hJvDVZnaxe/)
 
 *"Close to the hardware, close to the truth."*
 
