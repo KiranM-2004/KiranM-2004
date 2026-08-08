@@ -151,17 +151,17 @@ A safety-critical smart helmet using an ESP-32 and sensor array for environmenta
 
 ### `$ tail -f experience.log`
 
-**Embedded Systems Trainee · Airobosoft** `2026 · 3 Months`
-- Gained hands-on exposure to the full embedded systems development lifecycle in a professional environment
-- Supported embedded system integration, sensor interfacing, and hardware troubleshooting
-- Contributed to foundational tasks across the component lifecycle
-- `#EmbeddedSystems` `#SensorIntegration` `#HardwareTroubleshooting`
-
-**Internship Trainee · Technofly Solutions** `2025 · 3 Months`
+**Internship Trainee · Technofly Solutions** `2026 · 3 Months`
 - Collaborated on developing and debugging embedded firmware for real-time data processing
 - Worked on hardware-software communication between microcontrollers and peripherals
 - Assisted senior engineers in testing system protocols for stability and efficiency
 - `#EmbeddedFirmware` `#RealTimeSystems` `#ProtocolTesting`
+
+**Embedded Systems Trainee · Airobosoft** `2025 · 3 Months`
+- Gained hands-on exposure to the full embedded systems development lifecycle in a professional environment
+- Supported embedded system integration, sensor interfacing, and hardware troubleshooting
+- Contributed to foundational tasks across the component lifecycle
+- `#EmbeddedSystems` `#SensorIntegration` `#HardwareTroubleshooting`
 
 <br>
 
